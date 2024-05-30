@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ListContactApp.MVC.props" />
+</Project>

@@ -1,0 +1,10 @@
+﻿global using MediatR;
+global using ListContactApp.Domain.Interfaces;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
+global using ListContactApp.Domain.Entities;
+global using ListContactApp.Aplication.Dtos;
+global using Mapster;
+global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using System.Globalization;

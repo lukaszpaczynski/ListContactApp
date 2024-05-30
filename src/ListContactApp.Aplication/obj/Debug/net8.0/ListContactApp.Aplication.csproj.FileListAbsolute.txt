@@ -1,0 +1,15 @@
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\bin\Debug\net8.0\ListContactApp.Aplication.deps.json
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\bin\Debug\net8.0\ListContactApp.Aplication.dll
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\bin\Debug\net8.0\ListContactApp.Aplication.pdb
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\bin\Debug\net8.0\ListContactApp.Domain.dll
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\bin\Debug\net8.0\ListContactApp.Domain.pdb
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.csproj.AssemblyReference.cache
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.csproj.CopyComplete
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.dll
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\refint\ListContactApp.Aplication.dll
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ListContactApp.Aplication.pdb
+C:\Users\Komputer\source\repos\ListContactApp\src\ListContactApp.Aplication\obj\Debug\net8.0\ref\ListContactApp.Aplication.dll

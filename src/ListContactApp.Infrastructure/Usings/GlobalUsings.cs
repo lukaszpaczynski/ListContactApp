@@ -1,0 +1,9 @@
+﻿global using ListContactApp.Domain.Interfaces;
+global using ListContactApp.Infrastructure.Persistence;
+global using ListContactApp.Infrastructure.Repositories;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using ListContactApp.Domain.Entities;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
